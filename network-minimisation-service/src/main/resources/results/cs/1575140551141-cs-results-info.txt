@@ -1,0 +1,4 @@
+The number of necessary services: 8
+Final Chromosome: [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+The list of resulting service order Ids started from 0: [4, 7, 10, 21, 22, 33, 40, 49]
+The list of resulting service order Ids started from 1: [5, 8, 11, 22, 23, 34, 41, 50]
